@@ -1,4 +1,6 @@
+accelerate==0.30.1
 av==11.0.0
+bert_score==0.3.13
 blobfile==2.1.1
 cmudict==1.0.23
 dac==0.4.2
@@ -33,6 +35,7 @@ phonemizer==3.2.1
 Pillow==10.3.0
 protobuf==3.20.3
 pytest==8.2.1
+rouge_score==0.1.2
 scipy==1.13.0
 setuptools==69.5.1
 soundfile==0.12.1
